@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name":"Hamza Ahmad",
+    "description":"Software Developer",
+    "image":"pfp.png",
+    "bio":"I am an enthusiastic youth seeking work experience in an organization that will provide me with the opportunity for professional growth and enhancement of my abilities. I am a driven, hardworking, and dedicated individual who will prove to be an asset for my employer. I have the confidence in my ability to work independently as well as a team member.",
+    "contactmessage":"Please feel free to email me or message me",
+    "email": "hamzak477777@gmail.com",
+    "phone": "778-257-8417",
+    "github":"https://github.com/Dovakiin7",
+    "project":"https://github.com/Dovakiin7",
+    "address":{
+      "street":"380-Pemberton Terrace",
+      "city":"Kamloops",
+      "state":"British Columbia"
+    },
+    "website": "http://www.HamzaA.com",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/NotCreative77",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/hamza-ahmad-b79492251/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Dovakiin7",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Thompson River University",
+        "degree":"Computer Science Major",
+        "graduated":"September 2020 - Present",
+        "description":"I am currently enrolled in Thompson River University to study computer science and specialize in AI/Cyber Security"
+      },
+      {
+        "school":"Sa-Hali Secondary School",
+        "degree":"",
+        "graduated":"September 2017 - 2020",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Kamloops Phone Depot",
+        "title":"Phone Technician",
+        "years":"January 2020 - Febuary 2020",
+        "description":"I was a cell phone repair techinician and troubleshooter. My job was to diagnose phones and repair phones."
+      },
+      {
+        "company":"Walmart Canada",
+        "title":"Overnight Stocker",
+        "years":"May 2021 - June 2021",
+        "description":"My job was to restock shelves overnight"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"50%"
+      },
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.youtube.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
